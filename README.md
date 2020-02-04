@@ -19,8 +19,7 @@
 1.主界面设计
 
 为实现图书管理系统各功能，设计一个含有多个菜单的程序以控制各项子功能。
-
-![add image](https://github.com/0759LW/Library/raw/master/image/图一.png)
+![](https://github.com/0759LW/Library/raw/master/image/图一.png)
 
 2存储结构设计
 
@@ -127,12 +126,11 @@ void Create(LinkList &L) {
 6.图书删除信息，用户按下9或10，就能删除用户指定位置的图书或图书系统中重复的图书。（图六）
 
 7.图书显示功能，用户按下11，就能显示所有图书信息。（图七）
-
-![add image](https://github.com/0759LW/Library/raw/master/image/图一11.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图一1.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图二.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图三.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图四.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图五.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图六.png)
-![add image](https://github.com/0759LW/Library/raw/master/image/图七.png)
+![](https://github.com/0759LW/Library/raw/master/image/图一11.png)
+![](https://github.com/0759LW/Library/raw/master/image/图一1.png)
+![](https://github.com/0759LW/Library/raw/master/image/图二.png)
+![](https://github.com/0759LW/Library/raw/master/image/图三.png)
+![](https://github.com/0759LW/Library/raw/master/image/图四.png)
+![](https://github.com/0759LW/Library/raw/master/image/图五.png)
+![](https://github.com/0759LW/Library/raw/master/image/图六.png)
+![](https://github.com/0759LW/Library/raw/master/image/图七.png)
