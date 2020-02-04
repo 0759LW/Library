@@ -133,4 +133,4 @@ void Create(LinkList &L) {
 ![](https://github.com/0759LW/Library/raw/master/image/图四.png)
 ![](https://github.com/0759LW/Library/raw/master/image/图五.png)
 ![](https://github.com/0759LW/Library/raw/master/image/图六.png)
-![](https://github.com/0759LW/Library/raw/master/image/图七.png)
+![](https://github.com/0759LW/Library/raw/image/图七.png)
