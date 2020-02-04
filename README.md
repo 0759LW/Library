@@ -20,7 +20,7 @@
 
 为实现图书管理系统各功能，设计一个含有多个菜单的程序以控制各项子功能。
 
-![add image](https://github.com/0759Lw/Library/raw/master/image/图一.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图一.png)
 
 2存储结构设计
 
@@ -128,12 +128,11 @@ void Create(LinkList &L) {
 
 7.图书显示功能，用户按下11，就能显示所有图书信息。（图七）
 
-![add image](https://github.com/0759Lw/Library/raw/master/image/图一11.png)
-
-![add image](https://github.com/0759Lw/Library/raw/master/image/图一1.png)
-![add image](https://github.com/0759Lw/Library/raw/master/image/图二.png)
-![add image](https://github.com/0759Lw/Library/raw/master/image/图三.png)
-![add image](https://github.com/0759Lw/Library/raw/master/image/图四.png)
-![add image](https://github.com/0759Lw/Library/raw/master/image/图五.png)
-![add image](https://github.com/0759Lw/Library/raw/master/image/图六.png)
-![add image](https://github.com/0759Lw/Library/raw/master/image/图七.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图一11.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图一1.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图二.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图三.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图四.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图五.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图六.png)
+![add image](https://github.com/0759LW/Library/raw/master/image/图七.png)
